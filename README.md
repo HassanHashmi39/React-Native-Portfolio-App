@@ -12,15 +12,14 @@ A mobile portfolio application built with React Native that showcases my service
 
 
 # Features
-
-- Interactive and modern UI built with React Native components.
+- Blog/Articles section.
 - Services page with detailed cards.
+- Contact form integrated with EmailJS.
 - Skills section with animated progress bars.
 - Portfolio projects with clickable previews.
-- Blog/Articles section (with LinkedIn posts).
-- Contact form integrated with EmailJS/Formspree (or backend via Node.js).
-- Social media icons for GitHub, LinkedIn, and Behance.
 - Responsive layout for Android and iOS devices.
+- Social media icons for GitHub, LinkedIn, and Behance.
+- Interactive and modern UI built with React Native components.
 
 # Tech Stack
 
