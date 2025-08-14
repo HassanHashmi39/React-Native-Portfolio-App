@@ -23,12 +23,11 @@ A mobile portfolio application built with React Native that showcases my service
 
 # Tech Stack
 
-- React Native CLI / Expo (depending on your setup)
-- React Navigation for screen management
+- React Native CLI / Expo
 - Plain CSS for styling (no Tailwind)
+- React Navigation for screen management
 - EmailJS / Formspree for sending form submissions
 - Icons: react-native-vector-icons or similar library
-- Backend (optional): Node.js with Nodemailer (if needed)
 
 # Project Structure
 
