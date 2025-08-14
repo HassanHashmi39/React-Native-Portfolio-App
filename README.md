@@ -3,7 +3,13 @@
 
 A mobile portfolio application built with React Native that showcases my services, skills, projects, and includes features like a contact form and social media links.
 
-<img width="378" height="776" alt="screenshot-1755025962584" src="https://github.com/user-attachments/assets/8a3a88e5-2826-446d-a5a0-5c19ce8d191a" />
+<img width="333" height="776" alt="screenshot-1755025962584" src="https://github.com/user-attachments/assets/8a3a88e5-2826-446d-a5a0-5c19ce8d191a" />
+
+<img width="333" height="776" alt="screenshot-1755025962584" src="https://github.com/user-attachments/assets/9265b30a-e8ee-4b51-a6d7-5a2b81a7a9d4" />
+
+<img width="333" height="776" alt="screenshot-1755025962584" src="https://github.com/user-attachments/assets/d46c0286-e2b8-4dd1-802b-175dfb7305b4" />
+
+
 
 # Features
 
